@@ -1,0 +1,43 @@
+
+div {
+  text-align: center;
+}
+
+.frame {
+    padding: 50px;
+    
+}
+
+.topHeading {
+    background: tomato; 
+    font-size: 3rem;
+    font-family: verdana;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+.categoryHeading {
+    font-size: 2rem;
+    font-family: verdana;
+}
+
+.pstyle1 {
+    padding: 10px;
+    font-family: verdana;
+    font-size: 1rem;
+}
+
+.captions {
+    font-family: verdana;
+    font-size: 1rem;
+    padding: 10px;
+}
+
+#footer{
+    text-align: center;
+    border: 10px solid tomato;
+    font-family: verdana;
+    font-size: 10px;
+    padding: 10px; 
+}
